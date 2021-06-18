@@ -1,5 +1,5 @@
 ### Hi there, I'm Matt
-(He/They)
+(They/Them)
 
 Software Engineer student at the Rotterdam University of Applied Sciences.  
 A web developer (most of the time).
