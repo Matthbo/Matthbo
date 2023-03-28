@@ -1,7 +1,7 @@
-### Hi there, I'm Matt
+### Hi there, I'm Vivy
 (They/Them)
 
-Software Engineer student at the Rotterdam University of Applied Sciences.  
+Graduated Software Engineer at the Rotterdam University of Applied Sciences.  
 A web developer (most of the time).
 
 Most projects are either for school or personal projects that I like to work on.  
