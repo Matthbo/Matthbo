@@ -1,5 +1,4 @@
-### Hi there, I'm Vivy
-(They/Them)
+### Hi there, I'm Vivy <sub>_(They/Them)_</sub>
 
 Graduated Software Engineer at the Rotterdam University of Applied Sciences.  
 A web developer (most of the time).
